@@ -1,0 +1,85 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+h1 {
+    font-size: 20px;
+}
+h2 {
+    font-size: 15px;
+}
+h3{
+    float: right;
+    font-size: 13px;
+    margin-top: 1px;
+}
+hr{
+    background-color: black;
+}
+h4{
+    display: inline-block;
+    background-color: rgb(131, 218, 199);
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+.cabecalho{
+    color: white;
+    display: inline-block;
+    width: 330px;
+}
+main.interface {
+    background-color: white;
+    margin: 100px;
+    padding: 100px;
+    border-radius: 50px 50px 0px 0px;
+    box-shadow: 0px 1px 10px 1px black;
+    width: 340px;   
+    max-width: 1000px;
+    max-height: 100px;
+   
+}
+body{
+   width: 400px;
+}
+img{
+  width: 100px;
+}
+ol{
+    list-style: none;
+    border-radius: 10px;
+    border-top-left-radius: 100rem;
+    border-top-right-radius: 100rem;
+    border-width: 1rem;
+}
+li{
+display: inline-block;
+letter-spacing: 1px;
+word-spacing: 1px;
+line-height: 1px;
+letter-spacing: 0px;
+text-indent: 0px;
+font-size: 14px;
+}
+.menu{
+
+}
+section#corpo{
+    float: left;
+    line-height: 30%;  
+    width: 95px;
+    text-indent: 1px;
+}
+aside#lateral{
+    float:right;
+    width: 160px;
+    line-height: 30%;
+    font-weight: bold;
+    margin: 5px;
+    text-indent: 1px;
+    
+}
+
+
+
